@@ -1,4 +1,4 @@
-# 👋 Amarnath - Senior Software Engineer & Aspiring Machine Learning Expert
+# 👋 Amarnath - Senior Software Engineer & Aspiring Machine Learning Expert 🧑🏻‍💻
 
 ## Welcome to My Journey! 🚀
 
