@@ -80,3 +80,10 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmarnathaGowda&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=AmarnathaGowda&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+<div >
+  | Date       | Project Name                     | Repository Link                          | _Status_                         |
+|------------|----------------------------------|------------------------------------------|------------------------------------|
+| 2025-01-01 | CareerSyncAI                 | [GitHub Repo](https://github.com/AmarnathaGowda/CareerSyncAI) |Completed🎉                        |
+| 2025-01-02 | CineCube                 | [GitHub Repo](https://github.com/AmarnathaGowda/CineCube) |In Progress 🚧
+</div>
