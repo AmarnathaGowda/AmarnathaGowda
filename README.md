@@ -78,9 +78,11 @@ You can click the Preview link to take a look at your changes.
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmarnathaGowda&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+ <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmarnathaGowda&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  /> -->
   </br>
   [![GitHub Streak](https://streak-stats.demolab.com?user=AmarnathaGowda&theme=highcontrast&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
+</br>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AmarnathaGowda&theme=highcontrast&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
 </div>
 
 
