@@ -1,6 +1,7 @@
 # Hi, I’m Amar 👋  
 **Senior AI & Machine Learning Engineer**  
 Building production-ready AI systems.
+</br>
 ![Visitor Count](https://komarev.com/ghpvc/?username=AmarnathaGowda&color=dc143c)
 ---
 
@@ -85,37 +86,6 @@ AWS, GCP
 - Flutter app with AI-powered reply suggestions  
 
 ---
-
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true)
-
----
-
-## 📫 Connect With Me
-- Email: amarnath1413@gmail.com
-
-
-
-
-- 📫 How to reach me 
-
-<!---
-AmarnathaGowda/AmarnathaGowda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/amarnathagowda/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/@AMARRNATHHGOWDA" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-  <a href="https://twitter.com/AmarnathGowdaT" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-</div>
-
 ###
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -152,23 +122,51 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 ###
+---
 
-<h3 align="left">🔥   My Stats :</h3>
+## 📈 GitHub Stats
+![Amarnath's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AmarnathaGowda&theme=github-compact)
+
+---
+
+## 📫 Connect With Me
+- Email: amarnath1413@gmail.com
+
+
+
+
+- 📫 How to reach me 
+
+<!---
+AmarnathaGowda/AmarnathaGowda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/amarnathagowda/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/@AMARRNATHHGOWDA" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+  <a href="https://twitter.com/AmarnathGowdaT" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+</div>
+
+
+
+<!-- <h3 align="left">🔥   My Stats :</h3>
 
 ###
 
 <div align="center">
  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmarnathaGowda&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  /> -->
-  </br>
+<!--  </br>
   [![GitHub Streak](https://streak-stats.demolab.com?user=AmarnathaGowda&theme=highcontrast&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 </br>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AmarnathaGowda&theme=highcontrast&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
-</div>
-
-
-![Amarnath's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AmarnathaGowda&theme=github-compact)
-
----
+-->
 
 
 <!-- <div align="center">
